@@ -1,4 +1,4 @@
-const cols = 20;
+const cols = 40;
 const rows = 20;
 var map = new Array(cols);
 var openSet = [];
@@ -9,6 +9,7 @@ var end = null;
 var useDiagonals = false;
 var withWalls = false;
 var searchSpeed = 1000;
+var pathSpeed = 20;
 
 function createStats(color, message) {
   const stat = document.getElementById("stats");

@@ -28,7 +28,7 @@ async function dijkstra ()
 
       for (i = path.length - 1; i > 0; i--) {
         path[i].update("path");
-        await sleep(250);
+        await sleep(pathSpeed);
       }
 
       
@@ -52,7 +52,7 @@ async function dijkstra ()
 
 			
 			    neighbor.update("checking");
-				neighbor.d = current.d + heuristic(neighbor.returnElement(), end.returnElement());;
+				neighbor.d = current.d + heuristic(neighbor.returnElement(), end.returnElement());
 				neighbor.previous = current;
 				winnerSet.push(neighbor);
 			} 

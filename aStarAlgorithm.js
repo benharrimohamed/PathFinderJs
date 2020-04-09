@@ -10,6 +10,7 @@ async function astar() {
   }
 
   while (openSet.length > 0) {
+    
     var winner = 0;
     for (i = 0; i < openSet.length; i++) {
       if (openSet[i].f < openSet[winner].f) {
@@ -30,7 +31,7 @@ async function astar() {
 
       for (i = path.length - 1; i > 0; i--) {
         path[i].update("path");
-        await sleep(250);
+        await sleep(pathSpeed);
       }
 
       createStats("alert-success", "We found the target point ");
