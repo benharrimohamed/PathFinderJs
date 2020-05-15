@@ -1,5 +1,10 @@
-const cols = 82;
-const rows = 80;
+var screenHeight = $(window).height();
+var screenWidth = $(window).width();
+var mapCols = ((76* screenWidth) / 100) / 12;
+var mapRows = ((90* screenHeight) / 100) / 12;
+
+const cols = Math.floor(mapCols);
+const rows = Math.floor(mapRows);
 var map = new Array(cols);
 var openSet = [];
 var closeSet = [];
