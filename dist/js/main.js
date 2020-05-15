@@ -1,4 +1,4 @@
-const cols = 160;
+const cols = 82;
 const rows = 80;
 var map = new Array(cols);
 var openSet = [];
