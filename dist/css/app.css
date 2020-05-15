@@ -43,12 +43,12 @@
 
 .target {
   background-color: rgb(255, 0, 0);
-  border: 1px solid rgb(28, 42, 44);
+  border: 1px solid rgb(0, 0, 0);
 }
 
 .start {
   background-color: rgb(164, 255, 136);
-  border: 1px solid rgb(176, 246, 255);
+  border: 1px solid rgb(0, 0, 0);
 }
 
 .unvisited:hover {
