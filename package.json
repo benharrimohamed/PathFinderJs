@@ -1,0 +1,28 @@
+{
+  "name": "pathfinderalgo",
+  "version": "1.0.0",
+  "description": "Path finder between tow point in a map of nodes with bootstrap & css and javascript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benharri-mohammed/PathFinderJs.git"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "bootstrap",
+    "pathfinder"
+  ],
+  "author": "BEN HARRI MOHAMMED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benharri-mohammed/PathFinderJs/issues"
+  },
+  "homepage": "https://github.com/benharri-mohammed/PathFinderJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
