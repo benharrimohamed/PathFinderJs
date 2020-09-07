@@ -48,7 +48,7 @@
 
 <img src="images/screenshot_1.JPG" alt="screenshot">
 
-<p>Path finder algorithmes are very used when we talk about web development or software engineering in general , each algorithme has it own way to calculate the shortest path between tow point in a given map , in this web application i tried to visualise some of these algorithmes using javascript .</p>
+<p>Path finder algorithmes are very used when we talk about web development or software engineering in general , each algorithme has it own way to calculate the shortest path between tow point in a given map , in this web application i tried to visualise some of these algorithmes using javascript and some styling.</p>
 
 <h3>Used algorithmes :</h3>
 <ul> 
