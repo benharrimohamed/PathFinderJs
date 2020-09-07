@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/benharrimohamed/Rick-and-morty/">
+  <a href="https://pathfinderjs.herokuapp.com/">
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -46,7 +46,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/screenshot_1.JPG" alt="screenshot">
 
 As a huge fan of Rick & Morty show i made this simple web application using React & Material-Ui , 4 days ago i had no idea about React and how it works , i did some
 research and i start learning more about this library after a while things begin to be more clear and i ended up finishing this project .
