@@ -50,19 +50,20 @@
 
 <p>Path finder algorithmes are very used when we talk about web development or software engineering in general , each algorithme has it own way to calculate the shortest path between tow point in a given map , in this web application i tried to visualise some of these algorithmes using javascript .</p>
 
-<h4>Features:</h4>
-* Live search 
-* Fetching an API with Axios
-* working with components
-* Using Material-UI
-* Pagination
+<h3>Used algorithmes :</h3>
+<ul> 
+  <li>A * (A star ) Algorithme </li>
+  <li>Dijkstra Algorithme </li>
+</ul>
 
 
-### Built With
-These are the technologies i used to build this app :
-* [ReactJs](https://reactjs.org)
-* [Material-UI](https://material-ui.com)
-* [Rick & Morty API](https://rickandmortyapi.com/) by [Alex](https://github.com/afuh) <strong>Thank you !</strong>
+<h3>Used technologies :</h3>
+<ul> 
+  <li>JavaScript</li>
+  <li>Bootstrap </li>
+  <li>CSS </li>
+  <li>HTML5</li>
+</ul>
 
 
 <!-- LICENSE -->
