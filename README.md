@@ -67,9 +67,7 @@
 
 
 <!-- LICENSE -->
-<h3>A* algorithme explanation :</h3>
-
-<h6>First we should check if the start and the end point are existing if not we return an error message </h6>
+<h3>A* algorithme with JavaScript :</h3>
 
 ```javascript
   
@@ -83,11 +81,7 @@
     createStats("alert-danger", "End point is missing !");
     return;
   }
- ```
 
-<h6>First we should check if the start and the end point are existing if not we return an error message </h6>
-
-```javascript
   while (openSet.length > 0) {
     
     var winner = 0;
