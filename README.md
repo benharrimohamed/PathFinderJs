@@ -59,7 +59,7 @@
 
 <h3>Application features :</h3>
 <ul> 
-  <li>Generate new map with or without walls</li>
+  <li>Generate new map with/without walls</li>
   <li>Search using diagonls</li>
   <li>Set custom start/target point </li>
   <li>Set your own walls on the map</li>
