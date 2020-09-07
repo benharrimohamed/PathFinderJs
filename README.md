@@ -57,6 +57,16 @@
 </ul>
 
 
+<h3>Application features :</h3>
+<ul> 
+  <li>Generate new map with or without walls</li>
+  <li>Search using diagonls</li>
+  <li>Set custom start/target point </li>
+  <li>Set your own walls on the map</li>
+  <li>Control the search speed</li>
+</ul>
+
+
 <h3>Used technologies :</h3>
 <ul> 
   <li>JavaScript</li>
