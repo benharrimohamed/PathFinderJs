@@ -48,6 +48,7 @@
 
 <div>
 <img src="images/screenshot_2.JPG" alt="screenshot2">
+  <center>Generated app with walls</center>
 </div>
 
 <p>Path finder algorithmes are very used when we talk about web development or software engineering in general , each algorithme has it own way to calculate the shortest path between tow point in a given map , in this web application i tried to visualise some of these algorithmes using javascript and some styling.</p>
