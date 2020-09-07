@@ -41,12 +41,14 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h1>About this project</h1>
 
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<img src="images/screenshot_1.JPG" alt="screenshot">
+<div>
+<img src="images/screenshot_2.JPG" alt="screenshot2">
+</div>
 
 <p>Path finder algorithmes are very used when we talk about web development or software engineering in general , each algorithme has it own way to calculate the shortest path between tow point in a given map , in this web application i tried to visualise some of these algorithmes using javascript and some styling.</p>
 
@@ -77,7 +79,7 @@
 
 
 <!-- LICENSE -->
-<h3>A* algorithme with JavaScript :</h3>
+<h3>A* algorithme with JavaScript (dist/js/astar.js):</h3>
 
 ```javascript
   
@@ -156,11 +158,6 @@
 }
 ```  
   
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/benharrimohamed/Rick-and-morty](https://github.com/benharrimohamed/Rick-and-morty)
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
