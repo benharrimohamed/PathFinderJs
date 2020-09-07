@@ -48,10 +48,9 @@
 
 <img src="images/screenshot_1.JPG" alt="screenshot">
 
-As a huge fan of Rick & Morty show i made this simple web application using React & Material-Ui , 4 days ago i had no idea about React and how it works , i did some
-research and i start learning more about this library after a while things begin to be more clear and i ended up finishing this project .
+<p>Path finder algorithmes are very used when we talk about web development or software engineering in general , each algorithme has it own way to calculate the shortest path between tow point in a given map , in this web application i tried to visualise some of these algorithmes using javascript .</p>
 
-Features:
+<h4>Features:</h4>
 * Live search 
 * Fetching an API with Axios
 * working with components
@@ -80,6 +79,4 @@ Project Link: [https://github.com/benharrimohamed/Rick-and-morty](https://github
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mohammed-ben-harri-059734143
-[product-screenshot_1]: images/screenshot_1.JPG
-[product-screenshot_2]: images/screenshot_2.JPG
-[product-screenshot_3]: images/screenshot_3.JPG
+
