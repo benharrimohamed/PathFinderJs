@@ -30,7 +30,7 @@
   <h3 align="center">PathFinderJS</h3>
 
   <p align="center">
-    Path finder algorithmes visiualisation with JavaScript
+    Path finder algorithmes visiualisation with JavaScript.
     <br />
   <a href="https://pathfinderjs.herokuapp.com/"><strong>Preview App</strong></a>
     <br />
